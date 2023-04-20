@@ -1,0 +1,15 @@
+html,
+body {
+    display: grid;
+    background-color: #21232a;
+    color: #fff;
+    font-family: Arial;
+    font-size: 1.3rem;
+    padding: 7rem;
+    text-align:left;
+}
+button {
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
